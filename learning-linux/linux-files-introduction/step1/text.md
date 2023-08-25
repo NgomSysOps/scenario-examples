@@ -8,7 +8,7 @@ First we make sure we're in our home directory using
 
 ```plain
 cd ~
-```{{exec}}
+```{{copy}}
 
 We can list the current directory using
 
